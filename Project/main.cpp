@@ -22,8 +22,6 @@ int main() {
     }
     
     cout << "Programming laguage used: C++" << std::endl;
-    cout << "WGU Student ID: 010139544" << std::endl;
-    cout << "Student name: Dennis Phillips" << std::endl;
     cout << std::endl;
     
     cout << "All Students:" << std::endl;
